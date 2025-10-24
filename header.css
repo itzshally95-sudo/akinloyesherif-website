@@ -1,0 +1,77 @@
+ .header{
+                display: flex;
+                justify-content: space-between;
+                background-color: white;
+                margin-left: 20px;
+                position: fixed;
+                margin-top:10px ;
+                padding-bottom: 10px;
+                top: 0;
+                left: 0;
+                right: 0;
+                
+            }
+            .icons{
+                width: 24px;
+                height: 24px;
+            }
+            .youtube-logo{
+                width: 90px;
+                height: 20px;
+                margin-top: 3px;
+            }
+            .left-section{
+                display: flex;
+                justify-content: space-between;
+                width: 162px;
+                
+            }
+
+            .middle-section {
+                display: flex;
+                justify-content: space-between;
+                width: 400px;
+                border: 2px;
+                border-radius: 2px;
+                border-color: black);
+            }
+
+            .right-section{
+                display: flex;
+                justify-content: space-between;
+                width: 182px;
+
+            }
+              .search-box{
+                color: rgb(83, 84, 84);
+                background-color: rgb(195, 193, 192);
+                width: 358px;
+                height: 40px;
+                font-size: 15px;
+                font-weight: bold;
+                padding-left: 15px;
+                border-color:rgb(239, 228, 228) ;
+                border-radius: 3px;
+                
+                  border-bottom-right-radius: 0;
+                  border-top-right-radius: 0;
+            }
+
+               .search-icon{
+                    width: 30px;
+                    height: 30px;                           
+                    margin-left: 15px;
+                    margin-top: 5px;
+                 
+
+            }
+               .search-icon-box{
+                height: 40px;
+                width: 70px;
+                border-color: ;
+                border-radius: 3px;
+                padding-bottom: 5px;
+                border-top-left-radius: 0;
+                border-bottom-left-radius:0; 
+                background-color: rgb(242, 242, 214) ;
+               }

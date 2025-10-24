@@ -1,0 +1,31 @@
+
+          .icons{
+            height: 30px;
+            
+          }
+          .undertext{
+            font-size: 10px;
+            text-align: center;
+          }
+          .sidebar-link{
+            display: grid;
+            width: 72px;
+            height: 74PX;
+            margin-bottom: 10px;
+            place-items: center;
+      
+          }
+          .sidebar-link:hover {
+            background-color: rgb(210, 212, 212);
+             cursor: pointer;
+             transition: 1s;
+          }
+
+          .sidebar{
+            display: grid;
+            background-color: white;
+            position: fixed;
+            justify-content: space-between;  
+            bottom: 0;        
+          }
+          
